@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioTest</string>
+    <string name="record_audiorecord">Record (AudioRecord)</string>
+    <string name="play_audiotrack">Play (AudioTrack)</string>
+    <string name="record_button_stop">Stop recording</string>
+    <string name="play_button_stop">Stop playing</string>
+    <string name="convert_button">Convert</string>
+    <string name="record_mediarecorder">Record (MediaRecorder)</string>
+    <string name="play_mediaplayer">Play (MediaPlayer)</string>
+</resources>
