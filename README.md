@@ -15,7 +15,7 @@ As part of enabling Dolby.io's audio processing capabilities, you would need to 
 
 Make sure you have your <a href="https://dolby.io/developers/media-processing/quick-start/analyzing-media#1-get-your-api-key"> API key ready </a> and Android Studio installed on your computer. This project will also require a physical Android device or an emulator to run the app. 
 
-# Troubleshooting 
+# Report a Bug 
 In the case any bugs occur, report it using Github issues, and we will see to it. 
 
 # Forking
