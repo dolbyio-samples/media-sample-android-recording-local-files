@@ -31,12 +31,11 @@ For a deeper dive, we welcome you to review the following:
  - [Media Enhance API](https://docs.dolby.io/media-apis/docs/enhance-api-guide)
  - [Getting Started with Enhance API](https://docs.dolby.io/media-apis/docs/quick-start-to-enhancing-media)
  - [API Reference](https://docs.dolby.io/media-apis/reference/media-enhance-post)
- - [How We Produce "The Back Pass" Podcast with Dolby.io Enhance](https://dolby.io/search/?_blog_categories=media&_search=android)
+ - [How We Produce "The Back Pass" Podcast with Dolby.io Enhance](https://dolby.io/blog/how-we-produce-the-back-pass-podcast/)
  - [Video Transcoding: Why is it Important in the Modern Video Landscape?](https://dolby.io/blog/video-transcoding/)
  - [Blog Session - Media API](https://dolby.io/search/?_blog_categories=media)
 
 # About Dolby.io
-
 Using decades of Dolby's research in sight and sound technology, Dolby.io provides APIs to integrate real-time streaming, voice & video communications, and file-based media processing into your applications. [Sign up for a free account](https://dashboard.dolby.io/signup/) to get started building the next generation of immersive, interactive, and social apps.
 
 <div align="center">
