@@ -4,7 +4,7 @@
 
 # Android Audio Recording Examples
 
-This repo contains code samples for recording audio on Android devices using the Dolby.io APIs. It includes examples of different audio recording scenarios such as recording with noise suppression and recording in stereo.
+This repo contains code samples for capturing audio as a recorded file on Android devices. This is often part of an application that captures audio such as user-generated content and then uses the Dolby.io Media APIs to analyze, transcode, and enhance the resulting file.
 
 # Overview
 Following the instructions of [Recording audio on Android with examples ](https://dolby.io/blog/recording-audio-on-android-with-examples/), this project will evaluate the use of MediaRecorder, MediaPlayer, AudioRecord, and AudioTrack frameworks in Java in comparison with other audio capture and playback options. 
@@ -13,7 +13,7 @@ Following the instructions of [Recording audio on Android with examples ](https:
 After cloning this project, open it in Android Studio to test and experiment with different configurations. You'll likely need a physical device, as the emulator can't record audio.
 
 # Getting Started 
-As part of enabling Dolby.io's audio processing capabilities, you would need to sign up for a [Dolby.io account](https://dashboard.dolby.io/signup/) You receive 50GBs to start out for free, which should help you get started with this project. 
+As part of enabling Dolby.io's audio processing capabilities, you would need to sign up for a [Dolby.io account](https://dashboard.dolby.io/signup/). Use of the Dolby.io Media APIs is based on minutes of audio processed with a generous monthly credit to experiment with.
 
 Make sure you have your [API key ready](https://dolby.io/developers/media-processing/quick-start/analyzing-media#1-get-your-api-key) and Android Studio installed on your computer. This project will also require a physical Android device or an emulator to run the app. 
 
